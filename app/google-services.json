@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "150407205108",
+    "project_id": "food-select-7869a",
+    "storage_bucket": "food-select-7869a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:150407205108:android:6cdd7ef4d09cc96e458ea1",
+        "android_client_info": {
+          "package_name": "com.example.food_select"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7fmER9SQGUCEwPWGnubOwoyQ1yswgp4I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
