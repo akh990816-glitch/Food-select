@@ -71,12 +71,15 @@
 ---
 
 ## 📸 Screenshots
-| 메인 홈 (통계) | AI 분석 결과 | 식단 추천 다이얼로그 |
-| :---: | :---: | :---: |
-| ![Home](https://via.placeholder.com/200x400) | ![Result](https://via.placeholder.com/200x400) | ![Recommend](https://via.placeholder.com/200x400) |
+![Screenshot_20251217_193215_Food-Select](https://github.com/user-attachments/assets/42f2b247-c390-4fe7-af52-1bfd1e2eb59c)
+
+| ![1046](https://github.com/user-attachments/assets/f439a96b-0285-4fbc-8075-1f8d983afefa) | 
+![1044](https://github.com/user-attachments/assets/6c82ba30-782e-4b63-8190-e381bedaa200)
+
 > *이미지 영역은 실제 스크린샷 파일로 교체하시기 바랍니다.*
 
----
+
+
 
 ## 👨‍💻 Author
 * **Name:** [안강현[
