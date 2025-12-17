@@ -1,4 +1,4 @@
-#  Calo Snap (AI Food Analysis & Diet Tracker)
+#  food select (AI Food Analysis & Diet Tracker)
 
 > **"사진 한 장으로 끝내는 스마트 영양 관리 비서"**
 >
